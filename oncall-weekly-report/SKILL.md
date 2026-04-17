@@ -1,4 +1,3 @@
----
 name: oncall-weekly-report
 description: >
   Use this skill to generate a weekly Oncall ticket analysis report.
